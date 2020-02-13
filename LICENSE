@@ -21,3 +21,21 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 This is a change on my Readme
+
+# Título nivel 1
+    Javascript es un lenguaje expectacular
+## Título nivel 2
+    **Negrita**
+    _Itálica_
+### Título nivel 3
+    > Cita
+#### Título nivel 4
+    1 Lista
+    2 Lista
+    3 Lista
+##### Título nivel 5
+    `` código 
+###### Título nivel 6
+
+
+
